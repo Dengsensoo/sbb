@@ -1,4 +1,4 @@
-// 깃허브 연동 테스트
+// 깃허브 연동 테스트 3
 package com.mysite.sbb;
 
 import org.springframework.stereotype.Controller;
